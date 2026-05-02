@@ -85,7 +85,7 @@ export const ContactForm = () => {
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-5 pt-2">
         <div className="flex items-center gap-3 text-sm text-muted-foreground">
           <span className="font-mono text-xs uppercase tracking-[0.18em]">{t("contact.or")}</span>
-          <a href="mailto:hello@aec.dev" className="text-foreground hover:text-accent transition-colors">
+          <a href="mailto:zbyszek1718@gmail.com" className="text-foreground hover:text-accent transition-colors">
             <Mail className="h-4 w-4 inline" />
           </a>
           <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="text-foreground hover:text-accent transition-colors">
