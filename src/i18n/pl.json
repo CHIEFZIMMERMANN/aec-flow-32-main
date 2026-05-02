@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "services": "Usługi",
+    "useCases": "Zastosowania",
+    "demo": "Demo",
+    "tools": "Narzędzia",
+    "about": "O mnie",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "badge": "Automatyzacja AEC • Narzędzia BIM",
+    "title": "Automatyzuję procesy AEC —",
+    "titleAccent": "szybciej, mądrzej, bez błędów",
+    "subtitle": "Dedykowane wtyczki Revit, skrypty Dynamo i aplikacje webowe, które eliminują powtarzalną pracę architektów, BIM managerów i zespołów inżynierskich.",
+    "ctaDemo": "Zobacz demo",
+    "ctaContact": "Skontaktuj się",
+    "stats": {
+      "hours": "Godzin zaoszczędzonych na projekcie",
+      "errors": "Mniej błędów w dokumentacji",
+      "teams": "Zespołów korzysta z moich narzędzi"
+    }
+  },
+  "services": {
+    "title": "Czym się zajmuję",
+    "subtitle": "Inżynierska automatyzacja dla branży budowlanej.",
+    "items": {
+      "automation": {
+        "title": "Automatyzacja procesów AEC",
+        "desc": "Zastępuję manualne, powtarzalne czynności niezawodnymi skryptami i pipeline'ami dopasowanymi do Twojego studia."
+      },
+      "plugins": {
+        "title": "Wtyczki Revit i Autodesk",
+        "desc": "Natywne dodatki C# / .NET rozszerzające Revit, Navisworks i AutoCAD o funkcje, których naprawdę potrzebujesz."
+      },
+      "dynamo": {
+        "title": "Skrypty Dynamo",
+        "desc": "Grafy wizualne i węzły Pythona automatyzujące modelowanie, QA i ekstrakcję danych."
+      },
+      "web": {
+        "title": "Aplikacje web i wizualizacje 3D",
+        "desc": "Konfiguratory, cyfrowe bliźniaki i przeglądarki APS, które przenoszą dane BIM do przeglądarki."
+      }
+    }
+  },
+  "useCases": {
+    "title": "Efekty, nie funkcje",
+    "subtitle": "Co realnie zyskują zespoły, z którymi pracuję.",
+    "items": {
+      "docs": { "title": "Automatyczna dokumentacja", "desc": "Arkusze, zestawienia i eksporty w minuty — nie w dni." },
+      "errors": { "title": "Mniej błędów BIM", "desc": "Audyty i walidacja modeli wyłapują problemy zanim trafią do wykonawcy." },
+      "workflow": { "title": "Sprawne procesy", "desc": "Od koncepcji po przekazanie — zespół skupia się na projekcie, nie na plikach." },
+      "tools": { "title": "Narzędzia szyte na miarę", "desc": "Aplikacje budowane wokół tego, jak naprawdę pracuje Twoje studio." }
+    }
+  },
+  "demo": {
+    "title": "Zobacz w działaniu",
+    "subtitle": "Krótki przegląd ostatniego projektu automatyzacji.",
+    "cta": "Zobacz demo",
+    "modalTitle": "Demo",
+    "placeholder": "Wideo wkrótce"
+  },
+  "tools": {
+    "title": "Stworzone dla ekosystemu Autodesk",
+    "subtitle": "Głęboka integracja z narzędziami, z których już korzysta Twój zespół."
+  },
+  "about": {
+    "title": "O mnie",
+    "p1": "Jestem deweloperem skupionym na branży AEC — łączę architekturę, inżynierię i software. Od lat pracuję z BIM managerami, projektantami i wykonawcami, budując narzędzia eliminujące tarcia w codziennej pracy.",
+    "p2": "Moje podejście jest proste: dostarczam pragmatyczną automatyzację, która zwraca się w tygodniach, nie kwartałach."
+  },
+  "contact": {
+    "title": "Zbudujmy coś razem",
+    "subtitle": "Opowiedz mi o swoim projekcie — zwykle odpowiadam w ciągu doby.",
+    "name": "Imię",
+    "email": "Email",
+    "message": "Wiadomość",
+    "send": "Wyślij wiadomość",
+    "sending": "Wysyłanie...",
+    "success": "Wiadomość wysłana. Odezwę się wkrótce.",
+    "error": "Coś poszło nie tak. Spróbuj ponownie.",
+    "or": "lub skontaktuj się bezpośrednio",
+    "validation": {
+      "name": "Podaj swoje imię",
+      "email": "Podaj poprawny email",
+      "message": "Wiadomość musi mieć co najmniej 10 znaków"
+    }
+  },
+  "footer": {
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "tagline": "Automatyzacja AEC • Narzędzia BIM • Aplikacje web"
+  }
+}

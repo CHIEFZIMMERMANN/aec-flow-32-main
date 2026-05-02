@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "services": "Services",
+    "useCases": "Use cases",
+    "demo": "Demo",
+    "tools": "Tools",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "AEC Automation • BIM Tools",
+    "title": "I automate AEC workflows —",
+    "titleAccent": "faster, smarter, error-free",
+    "subtitle": "Custom Revit plugins, Dynamo scripts, and web tools that eliminate repetitive work for architects, BIM managers and engineering teams.",
+    "ctaDemo": "Watch demo",
+    "ctaContact": "Get in touch",
+    "stats": {
+      "hours": "Hours saved per project",
+      "errors": "Fewer documentation errors",
+      "teams": "Teams using my tools"
+    }
+  },
+  "services": {
+    "title": "What I do",
+    "subtitle": "Engineering-grade automation for the built environment.",
+    "items": {
+      "automation": {
+        "title": "AEC process automation",
+        "desc": "Replace manual, repetitive work with reliable scripts and pipelines tailored to your studio."
+      },
+      "plugins": {
+        "title": "Revit & Autodesk plugins",
+        "desc": "Native C# / .NET add-ins that extend Revit, Navisworks and AutoCAD with the features your team actually needs."
+      },
+      "dynamo": {
+        "title": "Dynamo scripting",
+        "desc": "Visual graphs and Python nodes that automate modeling, QA and data extraction tasks."
+      },
+      "web": {
+        "title": "Web apps & 3D viewers",
+        "desc": "Configurators, digital twins and APS-powered viewers that bring BIM data to the browser."
+      }
+    }
+  },
+  "useCases": {
+    "title": "Outcomes, not features",
+    "subtitle": "What teams actually get when we work together.",
+    "items": {
+      "docs": { "title": "Automated documentation", "desc": "Sheets, schedules and exports generated in minutes — not days." },
+      "errors": { "title": "Fewer BIM errors", "desc": "Model audits and validation catch issues before they reach the contractor." },
+      "workflow": { "title": "Streamlined workflows", "desc": "From concept to handover, your team focuses on design — not file plumbing." },
+      "tools": { "title": "Custom internal tools", "desc": "Bespoke utilities built around how your studio actually works." }
+    }
+  },
+  "demo": {
+    "title": "See it in action",
+    "subtitle": "A short walkthrough of a recent automation project.",
+    "cta": "Watch demo",
+    "modalTitle": "Demo walkthrough",
+    "placeholder": "Demo video coming soon"
+  },
+  "tools": {
+    "title": "Built for the Autodesk ecosystem",
+    "subtitle": "Deep integration with the tools your team already uses."
+  },
+  "about": {
+    "title": "About",
+    "p1": "I'm a developer focused on the AEC industry — bridging the gap between architecture, engineering and software. For years I've worked alongside BIM managers, designers and contractors, building tools that remove friction from their daily work.",
+    "p2": "My focus is simple: ship pragmatic automation that pays for itself within weeks, not quarters."
+  },
+  "contact": {
+    "title": "Let's build something",
+    "subtitle": "Tell me about your project — I usually reply within a day.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send message",
+    "sending": "Sending...",
+    "success": "Message sent. I'll get back to you shortly.",
+    "error": "Something went wrong. Please try again.",
+    "or": "or reach me directly",
+    "validation": {
+      "name": "Please enter your name",
+      "email": "Please enter a valid email",
+      "message": "Message must be at least 10 characters"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "AEC automation • BIM tools • Web apps"
+  }
+}
